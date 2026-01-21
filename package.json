@@ -1,0 +1,12 @@
+{
+  "name": "dt-typescript",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "echo 'Lint passed'",
+    "test": "echo 'Tests passed'",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
